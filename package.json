@@ -1,0 +1,18 @@
+{
+  "name": "acronym-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/vertexai": "^0.5.0",
+    "express": "^4.18.3",
+    "install": "^0.13.0",
+    "npm": "^10.5.0"
+  }
+}
