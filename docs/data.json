@@ -1,1392 +1,1392 @@
 [
     {
-        "word": "3PL",
-        "definition": "Third Party Logistics",
-        "topic": "Operations"
+      "word": "3PL",
+      "definition": "Third Party Logistics",
+      "topic": "Operations"
     },
     {
-        "word": "AMR",
-        "definition": "Autonomous Mobile Robots. System of storage and retrieval to be implemented that is based in the usage of small transportation units.",
-        "topic": "Operations"
+      "word": "AMR",
+      "definition": "Autonomous Mobile Robots. System of storage and retrieval to be implemented that is based in the usage of small transportation units.",
+      "topic": "Operations"
     },
     {
-        "word": "ASN",
-        "definition": "Advanced Shipping Notice",
-        "topic": "Operations"
+      "word": "ASN",
+      "definition": "Advanced Shipping Notice",
+      "topic": "Operations"
     },
     {
-        "word": "ASRS",
-        "definition": "Automatic Storage Retrieval System",
-        "topic": "Operations"
+      "word": "ASRS",
+      "definition": "Automatic Storage Retrieval System",
+      "topic": "Operations"
     },
     {
-        "word": "BPI",
-        "definition": "Business Process Interface",
-        "topic": "Operations"
+      "word": "BPI",
+      "definition": "Business Process Interface",
+      "topic": "Operations"
     },
     {
-        "word": "DESADV",
-        "definition": "Despatch advice",
-        "topic": "Operations"
+      "word": "DESADV",
+      "definition": "Despatch advice",
+      "topic": "Operations"
     },
     {
-        "word": "DPID",
-        "definition": "Delivery Point Identifier",
-        "topic": "Operations"
+      "word": "DPID",
+      "definition": "Delivery Point Identifier",
+      "topic": "Operations"
     },
     {
-        "word": "DTO",
-        "definition": "Direct Transfer Order: TSUs can directly be transported to specific material flow locations by sending VISION a Direct Transport Order independent from delivery orders or other order structures.",
-        "topic": "Operations"
+      "word": "DTO",
+      "definition": "Direct Transfer Order: TSUs can directly be transported to specific material flow locations by sending VISION a Direct Transport Order independent from delivery orders or other order structures.",
+      "topic": "Operations"
     },
     {
-        "word": "EAN",
-        "definition": "European Article Number",
-        "topic": "Operations"
+      "word": "EAN",
+      "definition": "European Article Number",
+      "topic": "Operations"
     },
     {
-        "word": "EDI",
-        "definition": "Electronic Document Invoicing. Automated ordering for Suppliers",
-        "topic": "Operations"
+      "word": "EDI",
+      "definition": "Electronic Document Invoicing. Automated ordering for Suppliers",
+      "topic": "Operations"
     },
     {
-        "word": "FC",
-        "definition": "Fulfilment Centre (new term for Warehouse)",
-        "topic": "Operations"
+      "word": "FC",
+      "definition": "Fulfilment Centre (new term for Warehouse)",
+      "topic": "Operations"
     },
     {
-        "word": "FIL",
-        "definition": "Found In Location",
-        "topic": "Operations"
+      "word": "FIL",
+      "definition": "Found In Location",
+      "topic": "Operations"
     },
     {
-        "word": "GtP",
-        "definition": "Goods to Person",
-        "topic": "Operations"
+      "word": "GtP",
+      "definition": "Goods to Person",
+      "topic": "Operations"
     },
     {
-        "word": "HLC",
-        "definition": "High Level Control",
-        "topic": "Operations"
+      "word": "HLC",
+      "definition": "High Level Control",
+      "topic": "Operations"
     },
     {
-        "word": "ICS",
-        "definition": "Inventory Control System",
-        "topic": "Operations"
+      "word": "ICS",
+      "definition": "Inventory Control System",
+      "topic": "Operations"
     },
     {
-        "word": "IFF",
-        "definition": "Iconic Fulfilled - collection from Seller and delivery to customer",
-        "topic": "Operations"
+      "word": "IFF",
+      "definition": "Iconic Fulfilled - collection from Seller and delivery to customer",
+      "topic": "Operations"
     },
     {
-        "word": "IL",
-        "definition": "International Logistics team",
-        "topic": "Operations"
+      "word": "IL",
+      "definition": "International Logistics team",
+      "topic": "Operations"
     },
     {
-        "word": "IMS",
-        "definition": "Inventory Management System",
-        "topic": "Operations"
+      "word": "IMS",
+      "definition": "Inventory Management System",
+      "topic": "Operations"
     },
     {
-        "word": "Induction Station",
-        "definition": "Two meanings: When inducting something into the ASRS itself, this is a work station which acts as a bridge between the manual area and the ASRS. When Inducting something into the Sorter, the Induction Station is the same as the Picking Station in the ASRS Area.",
-        "topic": "Operations"
+      "word": "Induction Station",
+      "definition": "Two meanings: When inducting something into the ASRS itself, this is a work station which acts as a bridge between the manual area and the ASRS. When Inducting something into the Sorter, the Induction Station is the same as the Picking Station in the ASRS Area.",
+      "topic": "Operations"
     },
     {
-        "word": "I-Point",
-        "definition": "Identification Point",
-        "topic": "Operations"
+      "word": "I-Point",
+      "definition": "Identification Point",
+      "topic": "Operations"
     },
     {
-        "word": "LHD",
-        "definition": "Load Handling Device: With respect to this project, this is essentially the instance of the micro shuttle.",
-        "topic": "Operations"
+      "word": "LHD",
+      "definition": "Load Handling Device: With respect to this project, this is essentially the instance of the micro shuttle.",
+      "topic": "Operations"
     },
     {
-        "word": "LLC",
-        "definition": "Low Level Control",
-        "topic": "Operations"
+      "word": "LLC",
+      "definition": "Low Level Control",
+      "topic": "Operations"
     },
     {
-        "word": "MD",
-        "definition": "MobileDock - Book time for delivery into FC",
-        "topic": "Operations"
+      "word": "MD",
+      "definition": "MobileDock - Book time for delivery into FC",
+      "topic": "Operations"
     },
     {
-        "word": "MFC",
-        "definition": "Material Flow Controller: Component of VISION that realises the interface between the business logic of VISION and the low level controls.",
-        "topic": "Operations"
+      "word": "MFC",
+      "definition": "Material Flow Controller: Component of VISION that realises the interface between the business logic of VISION and the low level controls.",
+      "topic": "Operations"
     },
     {
-        "word": "MIO",
-        "definition": "Multi Item Order",
-        "topic": "Operations"
+      "word": "MIO",
+      "definition": "Multi Item Order",
+      "topic": "Operations"
     },
     {
-        "word": "ORDRSP",
-        "definition": "Purchase Order Response",
-        "topic": "Operations"
+      "word": "ORDRSP",
+      "definition": "Purchase Order Response",
+      "topic": "Operations"
     },
     {
-        "word": "OTD",
-        "definition": "On Time Dispatch",
-        "topic": "Operations"
+      "word": "OTD",
+      "definition": "On Time Dispatch",
+      "topic": "Operations"
     },
     {
-        "word": "PLC",
-        "definition": "Programmable Logic Controller",
-        "topic": "Operations"
+      "word": "PLC",
+      "definition": "Programmable Logic Controller",
+      "topic": "Operations"
     },
     {
-        "word": "PMO",
-        "definition": "Project Management Office",
-        "topic": "Operations"
+      "word": "PMO",
+      "definition": "Project Management Office",
+      "topic": "Operations"
     },
     {
-        "word": "PO",
-        "definition": "Purchase Order",
-        "topic": "Operations"
+      "word": "PO",
+      "definition": "Purchase Order",
+      "topic": "Operations"
     },
     {
-        "word": "POA",
-        "definition": "Purchase Order Acknowledgement (from supplier)",
-        "topic": "Operations"
+      "word": "POA",
+      "definition": "Purchase Order Acknowledgement (from supplier)",
+      "topic": "Operations"
     },
     {
-        "word": "POD",
-        "definition": "Proof of Delivery e.g. Delivery docket or consignment note",
-        "topic": "Operations"
+      "word": "POD",
+      "definition": "Proof of Delivery e.g. Delivery docket or consignment note",
+      "topic": "Operations"
     },
     {
-        "word": "P-Station",
-        "definition": "Pickup station – location where crane picks a tray from and then onto the LHD, then into a rack position",
-        "topic": "Operations"
+      "word": "P-Station",
+      "definition": "Pickup station – location where crane picks a tray from and then onto the LHD, then into a rack position",
+      "topic": "Operations"
     },
     {
-        "word": "QC",
-        "definition": "Quality Control",
-        "topic": "Operations"
+      "word": "QC",
+      "definition": "Quality Control",
+      "topic": "Operations"
     },
     {
-        "word": "RCS",
-        "definition": "Receiving Station",
-        "topic": "Operations"
+      "word": "RCS",
+      "definition": "Receiving Station",
+      "topic": "Operations"
     },
     {
-        "word": "RFT",
-        "definition": "Required Finishing Time",
-        "topic": "Operations"
+      "word": "RFT",
+      "definition": "Required Finishing Time",
+      "topic": "Operations"
     },
     {
-        "word": "RTS",
-        "definition": "Return to Seller",
-        "topic": "Operations"
+      "word": "RTS",
+      "definition": "Return to Seller",
+      "topic": "Operations"
     },
     {
-        "word": "SIO",
-        "definition": "Single Item Order",
-        "topic": "Operations"
+      "word": "SIO",
+      "definition": "Single Item Order",
+      "topic": "Operations"
     },
     {
-        "word": "SOP",
-        "definition": "Standard Operating Procedure",
-        "topic": "Operations"
+      "word": "SOP",
+      "definition": "Standard Operating Procedure",
+      "topic": "Operations"
     },
     {
-        "word": "SPS Commerce",
-        "definition": "The Iconic’s EDI enablement partner",
-        "topic": "Operations"
+      "word": "SPS Commerce",
+      "definition": "The Iconic’s EDI enablement partner",
+      "topic": "Operations"
     },
     {
-        "word": "STA",
-        "definition": "Standard Trading Agreement",
-        "topic": "Operations"
+      "word": "STA",
+      "definition": "Standard Trading Agreement",
+      "topic": "Operations"
     },
     {
-        "word": "SVS",
-        "definition": "SuperVisor Station – Vision application to monitor the system",
-        "topic": "Operations"
+      "word": "SVS",
+      "definition": "SuperVisor Station – Vision application to monitor the system",
+      "topic": "Operations"
     },
     {
-        "word": "TSU",
-        "definition": "Transport Storage Unit",
-        "topic": "Operations"
+      "word": "TSU",
+      "definition": "Transport Storage Unit",
+      "topic": "Operations"
     },
     {
-        "word": "UFO",
-        "definition": "UnidentiFied Object – General VI controls term. Product handling unit that is unknown in tracking",
-        "topic": "Operations"
+      "word": "UFO",
+      "definition": "UnidentiFied Object – General VI controls term. Product handling unit that is unknown in tracking",
+      "topic": "Operations"
     },
     {
-        "word": "WHS",
-        "definition": "Work Health and Safety",
-        "topic": "Operations"
+      "word": "WHS",
+      "definition": "Work Health and Safety",
+      "topic": "Operations"
     },
     {
-        "word": "bR",
-        "definition": "Before returns",
-        "topic": "Metrics"
+      "word": "bR",
+      "definition": "Before returns",
+      "topic": "Metrics"
     },
     {
-        "word": "aR",
-        "definition": "After returns",
-        "topic": "Metrics"
+      "word": "aR",
+      "definition": "After returns",
+      "topic": "Metrics"
     },
     {
-        "word": "aRet",
-        "definition": "After returns",
-        "topic": "Metrics"
+      "word": "aRet",
+      "definition": "After returns",
+      "topic": "Metrics"
     },
     {
-        "word": "aR prov",
-        "definition": "After returns, provisioned (e.g. for orders placed 2 days ago, we predict how many returns we will receive in the next ~98 days, and add that to current returns)",
-        "topic": "Metrics"
+      "word": "aR prov",
+      "definition": "After returns, provisioned (e.g. for orders placed 2 days ago, we predict how many returns we will receive in the next ~98 days, and add that to current returns)",
+      "topic": "Metrics"
     },
     {
-        "word": "BP1$",
-        "definition": "Buying profit 1, aka gross margin. = Sales minus COGS (cost of goods sold)",
-        "topic": "Metrics"
+      "word": "BP1$",
+      "definition": "Buying profit 1, aka gross margin. = Sales minus COGS (cost of goods sold)",
+      "topic": "Metrics"
     },
     {
-        "word": "BP1%",
-        "definition": "BP1$ divided by net revenue bR",
-        "topic": "Metrics"
+      "word": "BP1%",
+      "definition": "BP1$ divided by net revenue bR",
+      "topic": "Metrics"
     },
     {
-        "word": "BP2$",
-        "definition": "BP1$ minus operations costs (logistics, customer service, payment provider)",
-        "topic": "Metrics"
+      "word": "BP2$",
+      "definition": "BP1$ minus operations costs (logistics, customer service, payment provider)",
+      "topic": "Metrics"
     },
     {
-        "word": "BP2%",
-        "definition": "BP2$ divided by net revenue bR",
-        "topic": "Metrics"
+      "word": "BP2%",
+      "definition": "BP2$ divided by net revenue bR",
+      "topic": "Metrics"
     },
     {
-        "word": "BP3$",
-        "definition": "BP2$ minus marketing costs",
-        "topic": "Metrics"
+      "word": "BP3$",
+      "definition": "BP2$ minus marketing costs",
+      "topic": "Metrics"
     },
     {
-        "word": "PC1",
-        "definition": "The finance reporting equivalents of BP1, BP2, BP3, which are more accurate from an accounting standpoint",
-        "topic": "Metrics"
+      "word": "PC1",
+      "definition": "The finance reporting equivalents of BP1, BP2, BP3, which are more accurate from an accounting standpoint",
+      "topic": "Metrics"
     },
     {
-        "word": "PC2",
-        "definition": "The finance reporting equivalents of BP1, BP2, BP3, which are more accurate from an accounting standpoint",
-        "topic": "Metrics"
+      "word": "PC2",
+      "definition": "The finance reporting equivalents of BP1, BP2, BP3, which are more accurate from an accounting standpoint",
+      "topic": "Metrics"
     },
     {
-        "word": "PC3",
-        "definition": "The finance reporting equivalents of BP1, BP2, BP3, which are more accurate from an accounting standpoint",
-        "topic": "Metrics"
+      "word": "PC3",
+      "definition": "The finance reporting equivalents of BP1, BP2, BP3, which are more accurate from an accounting standpoint",
+      "topic": "Metrics"
     },
     {
-        "word": "ASP",
-        "definition": "Average selling price. = Total sales / total count of items sold",
-        "topic": "Metrics"
+      "word": "ASP",
+      "definition": "Average selling price. = Total sales / total count of items sold",
+      "topic": "Metrics"
     },
     {
-        "word": "ABV",
-        "definition": "Average basket value. = Total sales / total count of orders",
-        "topic": "Metrics"
+      "word": "ABV",
+      "definition": "Average basket value. = Total sales / total count of orders",
+      "topic": "Metrics"
     },
     {
-        "word": "ABS",
-        "definition": "Average basket size. = Total count of items sold / total count of orders",
-        "topic": "Metrics"
+      "word": "ABS",
+      "definition": "Average basket size. = Total count of items sold / total count of orders",
+      "topic": "Metrics"
     },
     {
-        "word": "Units",
-        "definition": "Largely synonymous",
-        "topic": "Metrics"
+      "word": "Units",
+      "definition": "Largely synonymous",
+      "topic": "Metrics"
     },
     {
-        "word": "items",
-        "definition": "Largely synonymous",
-        "topic": "Metrics"
+      "word": "items",
+      "definition": "Largely synonymous",
+      "topic": "Metrics"
     },
     {
-        "word": "NC",
-        "definition": "New customers, i.e. customers who placed their first order within the given timeframe",
-        "topic": "Metrics"
+      "word": "NC",
+      "definition": "New customers, i.e. customers who placed their first order within the given timeframe",
+      "topic": "Metrics"
     },
     {
-        "word": "RC",
-        "definition": "Returning customers. i.e. all customers who are not NC",
-        "topic": "Metrics"
+      "word": "RC",
+      "definition": "Returning customers. i.e. all customers who are not NC",
+      "topic": "Metrics"
     },
     {
-        "word": "NC%",
-        "definition": "NC divided by orders",
-        "topic": "Metrics"
+      "word": "NC%",
+      "definition": "NC divided by orders",
+      "topic": "Metrics"
     },
     {
-        "word": "Cohort",
-        "definition": "Group of customers. Typically grouped by date of acquisition, e.g. Jan 2015 cohort = all customers who placed their first order with THE ICONIC in Jan 2015",
-        "topic": "Metrics"
+      "word": "Cohort",
+      "definition": "Group of customers. Typically grouped by date of acquisition, e.g. Jan 2015 cohort = all customers who placed their first order with THE ICONIC in Jan 2015",
+      "topic": "Metrics"
     },
     {
-        "word": "CPSI",
-        "definition": "Cost Per Shipped Item",
-        "topic": "Metrics"
+      "word": "CPSI",
+      "definition": "Cost Per Shipped Item",
+      "topic": "Metrics"
     },
     {
-        "word": "CLS 30D",
-        "definition": "Cumulative lifetime sales. = Total sales placed by a cohort, divided by cohort size (cohort size = count of customers in the cohort). 30D means within 30 days of the date of their first order",
-        "topic": "Metrics"
+      "word": "CLS 30D",
+      "definition": "Cumulative lifetime sales. = Total sales placed by a cohort, divided by cohort size (cohort size = count of customers in the cohort). 30D means within 30 days of the date of their first order",
+      "topic": "Metrics"
     },
     {
-        "word": "CLBP1$ 30D",
-        "definition": "Same as CLS, except using total BP1$",
-        "topic": "Metrics"
+      "word": "CLBP1$ 30D",
+      "definition": "Same as CLS, except using total BP1$",
+      "topic": "Metrics"
     },
     {
-        "word": "CLV 30D",
-        "definition": "Same as CLS, except using total BP2$",
-        "topic": "Metrics"
+      "word": "CLV 30D",
+      "definition": "Same as CLS, except using total BP2$",
+      "topic": "Metrics"
     },
     {
-        "word": "RR1 30D",
-        "definition": "Repurchase rate 1. % of customers who repurchased. = Count of customers who have placed more than 1 order within the given timeframe (e.g. 30 days), divided by cohort size",
-        "topic": "Metrics"
+      "word": "RR1 30D",
+      "definition": "Repurchase rate 1. % of customers who repurchased. = Count of customers who have placed more than 1 order within the given timeframe (e.g. 30 days), divided by cohort size",
+      "topic": "Metrics"
     },
     {
-        "word": "RR2",
-        "definition": "Repurchase rate 2. = Sum of orders placed by a cohort within a given timeframe (excluding their first orders) divided by cohort size",
-        "topic": "Metrics"
+      "word": "RR2",
+      "definition": "Repurchase rate 2. = Sum of orders placed by a cohort within a given timeframe (excluding their first orders) divided by cohort size",
+      "topic": "Metrics"
     },
     {
-        "word": "CIR",
-        "definition": "Cost to income ratio. = Total marketing costs in a period, divided by total sales in that period",
-        "topic": "Metrics"
+      "word": "CIR",
+      "definition": "Cost to income ratio. = Total marketing costs in a period, divided by total sales in that period",
+      "topic": "Metrics"
     },
     {
-        "word": "CAC",
-        "definition": "Customer acquisition cost. = Total marketing costs in a period, divided by count of NC in that period",
-        "topic": "Metrics"
+      "word": "CAC",
+      "definition": "Customer acquisition cost. = Total marketing costs in a period, divided by count of NC in that period",
+      "topic": "Metrics"
     },
     {
-        "word": "CAC payback",
-        "definition": "The time it takes for a cohort to achieve enough CLV that CLV exceeds CAC",
-        "topic": "Metrics"
+      "word": "CAC payback",
+      "definition": "The time it takes for a cohort to achieve enough CLV that CLV exceeds CAC",
+      "topic": "Metrics"
     },
     {
-        "word": "SPV",
-        "definition": "Sales per visit. = Total sales divided by count of total visits",
-        "topic": "Metrics"
+      "word": "SPV",
+      "definition": "Sales per visit. = Total sales divided by count of total visits",
+      "topic": "Metrics"
     },
     {
-        "word": "CR%",
-        "definition": "Conversion rate. = Total count of orders divided by count of total visits",
-        "topic": "Metrics"
+      "word": "CR%",
+      "definition": "Conversion rate. = Total count of orders divided by count of total visits",
+      "topic": "Metrics"
     },
     {
-        "word": "UTF",
-        "definition": "Unable to fulfil. Where the item ordered by a customer actually cannot be shipped out (e.g. not in stock)",
-        "topic": "Metrics"
+      "word": "UTF",
+      "definition": "Unable to fulfil. Where the item ordered by a customer actually cannot be shipped out (e.g. not in stock)",
+      "topic": "Metrics"
     },
     {
-        "word": "STR",
-        "definition": "Sell-through is a percentage of units sold during a period (usually 1 month but at THE ICONIC normally one week). It is calculated by dividing the number of units sold by the beginning on-hand inventory (for that same time period).",
-        "topic": "Metrics"
+      "word": "STR",
+      "definition": "Sell-through is a percentage of units sold during a period (usually 1 month but at THE ICONIC normally one week). It is calculated by dividing the number of units sold by the beginning on-hand inventory (for that same time period).",
+      "topic": "Metrics"
     },
     {
-        "word": "AOV",
-        "definition": "Average Order Value = Average order value (AOV) tracks the average dollar amount spent each time a customer places an order on a website or mobile app. To calculate your company’s average order value, simply divide total revenue by the number of orders.",
-        "topic": "Metrics"
+      "word": "AOV",
+      "definition": "Average Order Value = Average order value (AOV) tracks the average dollar amount spent each time a customer places an order on a website or mobile app. To calculate your company’s average order value, simply divide total revenue by the number of orders.",
+      "topic": "Metrics"
     },
     {
-        "word": "SPC",
-        "definition": "Sales per customer in a period",
-        "topic": "Metrics"
+      "word": "SPC",
+      "definition": "Sales per customer in a period",
+      "topic": "Metrics"
     },
     {
-        "word": "YoY",
-        "definition": "Year on Year comparison. e.g. (sales of March 2015 - sales March 2014)/sales March 2014",
-        "topic": "Time and Targets"
+      "word": "YoY",
+      "definition": "Year on Year comparison. e.g. (sales of March 2015 - sales March 2014)/sales March 2014",
+      "topic": "Time and Targets"
     },
     {
-        "word": "MoM",
-        "definition": "Month on Month e.g. (month 2 - month 1)/month 2",
-        "topic": "Time and Targets"
+      "word": "MoM",
+      "definition": "Month on Month e.g. (month 2 - month 1)/month 2",
+      "topic": "Time and Targets"
     },
     {
-        "word": "WoW",
-        "definition": "Week on Week e.g. (week 2 - week 1)/week 2",
-        "topic": "Time and Targets"
+      "word": "WoW",
+      "definition": "Week on Week e.g. (week 2 - week 1)/week 2",
+      "topic": "Time and Targets"
     },
     {
-        "word": "tgt",
-        "definition": "Target (from business plan)",
-        "topic": "Time and Targets"
+      "word": "tgt",
+      "definition": "Target (from business plan)",
+      "topic": "Time and Targets"
     },
     {
-        "word": "pp",
-        "definition": "Percentage point. E.g. 39% and 37% differ by 2pp",
-        "topic": "Time and Targets"
+      "word": "pp",
+      "definition": "Percentage point. E.g. 39% and 37% differ by 2pp",
+      "topic": "Time and Targets"
     },
     {
-        "word": "LLY",
-        "definition": "Last Last Year",
-        "topic": "Time and Targets"
+      "word": "LLY",
+      "definition": "Last Last Year",
+      "topic": "Time and Targets"
     },
     {
-        "word": "LY",
-        "definition": "Last Year",
-        "topic": "Time and Targets"
+      "word": "LY",
+      "definition": "Last Year",
+      "topic": "Time and Targets"
     },
     {
-        "word": "TY",
-        "definition": "Thus Year",
-        "topic": "Time and Targets"
+      "word": "TY",
+      "definition": "Thus Year",
+      "topic": "Time and Targets"
     },
     {
-        "word": "MSS",
-        "definition": "Midseason sale",
-        "topic": "Categories"
+      "word": "MSS",
+      "definition": "Midseason sale",
+      "topic": "Categories"
     },
     {
-        "word": "ESS",
-        "definition": "End of season sale",
-        "topic": "Categories"
+      "word": "ESS",
+      "definition": "End of season sale",
+      "topic": "Categories"
     },
-        {
-            "word": "PL",
-            "definition": "Private label",
-            "topic": "Categories"
-        },
-        {
-            "word": "MP",
-            "definition": "Marketplace",
-            "topic": "Categories"
-        },
-        {
-            "word": "App",
-            "definition": "Mobile app. Does not include mobile website",
-            "topic": "Categories"
-        },
-        {
-            "word": "brand.com",
-            "definition": "FBI service where Brands sell on their own website (brand.com) and we provide Fulfilment services",
-            "topic": "Categories"
-        },
-        {
-            "word": "FBI",
-            "definition": "Fulfilled By Iconic",
-            "topic": "Categories"
-        },
     {
-        "word": "BAU",
-        "definition": "Business As Usual.",
-        "topic": "Tech"
+      "word": "PL",
+      "definition": "Private label",
+      "topic": "Categories"
     },
     {
-        "word": "ATB",
-        "definition": "Add To Bag (Cart)",
-        "topic": "Tech"
+      "word": "MP",
+      "definition": "Marketplace",
+      "topic": "Categories"
     },
     {
-        "word": "ATW",
-        "definition": "Add To Wishlist",
-        "topic": "Tech"
+      "word": "App",
+      "definition": "Mobile app. Does not include mobile website",
+      "topic": "Categories"
     },
     {
-        "word": "BOB",
-        "definition": "The Iconic’s backend",
-        "topic": "Tech"
+      "word": "brand.com",
+      "definition": "FBI service where Brands sell on their own website (brand.com) and we provide Fulfilment services",
+      "topic": "Categories"
     },
     {
-        "word": "PIM",
-        "definition": "Product Information Management.\nBOB act as our PIM. PIM is the system that store all SKU level attributes: Category, Size, Colour, weight …\n\nIt does not store the inventory stock level.",
-        "topic": "Tech"
+      "word": "FBI",
+      "definition": "Fulfilled By Iconic",
+      "topic": "Categories"
     },
     {
-        "word": "OMS",
-        "definition": "OMS stands for Order Management System, which is a software platform used in eCommerce to manage and track orders from the time they are placed to the time they are delivered to the customer. An OMS is designed to streamline the order fulfillment process and ensure that orders are processed and shipped quickly and accurately.\n\nSome of the key features of an OMS include:\n\nOrder processing: An OMS can automate the process of receiving and processing orders from multiple channels, including online marketplaces, websites, and brick-and-mortar stores.\n\nInventory management: An OMS can help manage inventory levels and provide real-time visibility into stock levels across multiple sales channels.\n\nShipping and tracking: An OMS can automate the shipping process and provide tracking information for each order, which can improve customer satisfaction.\n\nReturns management: An OMS can streamline the process of processing returns and exchanges, including issuing refunds and restocking returned products.\n\nReporting and analytics: An OMS can provide detailed reports and analytics on order and inventory data, which can help eCommerce businesses make informed decisions about inventory levels, sales channels, and more.\n\nOverall, an OMS is an essential tool for eCommerce businesses that want to streamline their order management process, improve efficiency, and provide a better customer experience.",
-        "topic": "Tech"
+      "word": "BAU",
+      "definition": "Business As Usual.",
+      "topic": "Tech"
     },
     {
-        "word": "WMS",
-        "definition": "WMS stands for Warehouse Management System, which is a software platform used in eCommerce to manage and track inventory and warehouse operations. A WMS is designed to help eCommerce businesses optimize their warehouse operations, improve inventory accuracy, and increase productivity.\n\nSome of the key features of a WMS include:\n\nInventory management: A WMS can track inventory levels in real-time, including receiving, put-away, picking, and shipping of products.\n\nOrder fulfillment: A WMS can manage and prioritize the order picking process to ensure that orders are fulfilled accurately and on time.\n\nBarcode scanning and labeling: A WMS can use barcode scanning and labeling to ensure accurate inventory counts and reduce errors in the picking and shipping processes.\n\nAutomation: A WMS can automate many warehouse processes, including inventory tracking, order picking, and shipping, which can improve efficiency and reduce labor costs.\n\nReporting and analytics: A WMS can provide detailed reports and analytics on warehouse operations, which can help eCommerce businesses make informed decisions about inventory levels, order fulfillment, and more.\n\nOverall, a WMS is an essential tool for eCommerce businesses that want to optimize their warehouse operations, improve accuracy, and increase productivity. By using a WMS, eCommerce businesses can manage their inventory and warehouse operations more efficiently, reduce errors, and provide a better customer experience.",
-        "topic": "Tech"
+      "word": "ATB",
+      "definition": "Add To Bag (Cart)",
+      "topic": "Tech"
     },
     {
-        "word": "BC",
-        "definition": "Microsoft Business Central",
-        "topic": "Tech"
+      "word": "ATW",
+      "definition": "Add To Wishlist",
+      "topic": "Tech"
     },
     {
-        "word": "C3PO",
-        "definition": "Checkout Team",
-        "topic": "Tech"
+      "word": "BOB",
+      "definition": "The Iconic’s backend",
+      "topic": "Tech"
     },
     {
-        "word": "CI/CD",
-        "definition": "Continuous Integration / Continuous Delivery",
-        "topic": "Tech"
+      "word": "PIM",
+      "definition": "Product Information Management.\nBOB act as our PIM. PIM is the system that store all SKU level attributes: Category, Size, Colour, weight …\n\nIt does not store the inventory stock level.",
+      "topic": "Tech"
     },
     {
-        "word": "ACL",
-        "definition": "Access Control List",
-        "topic": "Tech"
+      "word": "OMS",
+      "definition": "OMS stands for Order Management System, which is a software platform used in eCommerce to manage and track orders from the time they are placed to the time they are delivered to the customer. An OMS is designed to streamline the order fulfillment process and ensure that orders are processed and shipped quickly and accurately.\n\nSome of the key features of an OMS include:\n\nOrder processing: An OMS can automate the process of receiving and processing orders from multiple channels, including online marketplaces, websites, and brick-and-mortar stores.\n\nInventory management: An OMS can help manage inventory levels and provide real-time visibility into stock levels across multiple sales channels.\n\nShipping and tracking: An OMS can automate the shipping process and provide tracking information for each order, which can improve customer satisfaction.\n\nReturns management: An OMS can streamline the process of processing returns and exchanges, including issuing refunds and restocking returned products.\n\nReporting and analytics: An OMS can provide detailed reports and analytics on order and inventory data, which can help eCommerce businesses make informed decisions about inventory levels, sales channels, and more.\n\nOverall, an OMS is an essential tool for eCommerce businesses that want to streamline their order management process, improve efficiency, and provide a better customer experience.",
+      "topic": "Tech"
     },
     {
-        "word": "ACL",
-        "definition": "Australian Consumer Law",
-        "topic": "Tech"
+      "word": "WMS",
+      "definition": "WMS stands for Warehouse Management System, which is a software platform used in eCommerce to manage and track inventory and warehouse operations. A WMS is designed to help eCommerce businesses optimize their warehouse operations, improve inventory accuracy, and increase productivity.\n\nSome of the key features of a WMS include:\n\nInventory management: A WMS can track inventory levels in real-time, including receiving, put-away, picking, and shipping of products.\n\nOrder fulfillment: A WMS can manage and prioritize the order picking process to ensure that orders are fulfilled accurately and on time.\n\nBarcode scanning and labeling: A WMS can use barcode scanning and labeling to ensure accurate inventory counts and reduce errors in the picking and shipping processes.\n\nAutomation: A WMS can automate many warehouse processes, including inventory tracking, order picking, and shipping, which can improve efficiency and reduce labor costs.\n\nReporting and analytics: A WMS can provide detailed reports and analytics on warehouse operations, which can help eCommerce businesses make informed decisions about inventory levels, order fulfillment, and more.\n\nOverall, a WMS is an essential tool for eCommerce businesses that want to optimize their warehouse operations, improve accuracy, and increase productivity. By using a WMS, eCommerce businesses can manage their inventory and warehouse operations more efficiently, reduce errors, and provide a better customer experience.",
+      "topic": "Tech"
     },
     {
-        "word": "DevOps",
-        "definition": "Development Operations",
-        "topic": "Tech"
+      "word": "BC",
+      "definition": "Microsoft Business Central",
+      "topic": "Tech"
     },
     {
-        "word": "DMD",
-        "definition": "Daily Management Dashboard on Superset - Company Reports",
-        "topic": "Tech"
+      "word": "C3PO",
+      "definition": "Checkout Team",
+      "topic": "Tech"
     },
     {
-        "word": "WMD",
-        "definition": "Weekly Management Dashboard on Superset - Company Reports",
-        "topic": "Tech"
+      "word": "CI/CD",
+      "definition": "Continuous Integration / Continuous Delivery",
+      "topic": "Tech"
     },
     {
-        "word": "MMD",
-        "definition": "Monthly Management Dashboard on Superset - Company Reports",
-        "topic": "Tech"
+      "word": "ACL",
+      "definition": "Access Control List",
+      "topic": "Tech"
     },
     {
-        "word": "C/AL",
-        "definition": "Client/Server Application Language",
-        "topic": "Tech"
+      "word": "ACL",
+      "definition": "Australian Consumer Law",
+      "topic": "Tech"
     },
     {
-        "word": "API",
-        "definition": "Application Programmer Interface",
-        "topic": "Tech"
+      "word": "DevOps",
+      "definition": "Development Operations",
+      "topic": "Tech"
     },
     {
-        "word": "CRUD",
-        "definition": "Create Retrieve Update Delete",
-        "topic": "Tech"
+      "word": "DMD",
+      "definition": "Daily Management Dashboard on Superset - Company Reports",
+      "topic": "Tech"
     },
     {
-        "word": "CX",
-        "definition": "Customer Experience",
-        "topic": "Tech"
+      "word": "WMD",
+      "definition": "Weekly Management Dashboard on Superset - Company Reports",
+      "topic": "Tech"
     },
     {
-        "word": "DX",
-        "definition": "Delivery Experience",
-        "topic": "Tech"
+      "word": "MMD",
+      "definition": "Monthly Management Dashboard on Superset - Company Reports",
+      "topic": "Tech"
     },
     {
-        "word": "DWS or DWH",
-        "definition": "Data Warehouse System",
-        "topic": "Tech"
+      "word": "C/AL",
+      "definition": "Client/Server Application Language",
+      "topic": "Tech"
     },
     {
-        "word": "IAM",
-        "definition": "Identity and Access Management",
-        "topic": "Tech"
+      "word": "API",
+      "definition": "Application Programmer Interface",
+      "topic": "Tech"
     },
     {
-        "word": "MVP",
-        "definition": "Minimum Viable Product",
-        "topic": "Tech"
+      "word": "CRUD",
+      "definition": "Create Retrieve Update Delete",
+      "topic": "Tech"
     },
     {
-        "word": "UI",
-        "definition": "User Interface",
-        "topic": "Tech"
+      "word": "CX",
+      "definition": "Customer Experience",
+      "topic": "Tech"
     },
     {
-        "word": "AWACS",
-        "definition": "Advanced Watch And Check System: A system that verifies periodically whether predefined database checks have determined errors.",
-        "topic": "Tech"
+      "word": "DX",
+      "definition": "Delivery Experience",
+      "topic": "Tech"
     },
     {
-        "word": "CCU",
-        "definition": "Concurrent User",
-        "topic": "Tech"
+      "word": "DWS or DWH",
+      "definition": "Data Warehouse System",
+      "topic": "Tech"
     },
     {
-        "word": "CPR",
-        "definition": "Cart Price Rules. The engine we use to configure promotions.",
-        "topic": "Tech"
+      "word": "IAM",
+      "definition": "Identity and Access Management",
+      "topic": "Tech"
     },
     {
-        "word": "BC",
-        "definition": "Microsoft Business Central",
-        "topic": "Tech"
+      "word": "MVP",
+      "definition": "Minimum Viable Product",
+      "topic": "Tech"
     },
     {
-        "word": "React",
-        "definition": "A front-end JavaScript library for building user interfaces or UI components",
-        "topic": "Tech"
+      "word": "UI",
+      "definition": "User Interface",
+      "topic": "Tech"
     },
     {
-        "word": "ISR",
-        "definition": "THE ICONIC Standard Recommendations\n\nInbound Stock Request",
-        "topic": "Tech"
+      "word": "AWACS",
+      "definition": "Advanced Watch And Check System: A system that verifies periodically whether predefined database checks have determined errors.",
+      "topic": "Tech"
     },
     {
-        "word": "PSA",
-        "definition": "Product Support Analyst",
-        "topic": "Tech"
+      "word": "CCU",
+      "definition": "Concurrent User",
+      "topic": "Tech"
     },
     {
-        "word": "OWMS",
-        "definition": "Order Warehouse Management System",
-        "topic": "Tech"
+      "word": "CPR",
+      "definition": "Cart Price Rules. The engine we use to configure promotions.",
+      "topic": "Tech"
     },
     {
-        "word": "CDC",
-        "definition": "Complying Development Certificate",
-        "topic": "Infrastructure"
+      "word": "BC",
+      "definition": "Microsoft Business Central",
+      "topic": "Tech"
     },
     {
-        "word": "BCA",
-        "definition": "Building Code Australia",
-        "topic": "Infrastructure"
+      "word": "React",
+      "definition": "A front-end JavaScript library for building user interfaces or UI components",
+      "topic": "Tech"
     },
-        {
-            "word": "Impressions",
-            "definition": "The total number of times SKUs were viewed from Catalogue page or any page containing a list",
-            "topic": "Google Analytics (GA)"
-        },
-        {
-            "word": "Impression Clicks",
-            "definition": "The total number of times SKUs were selected from Catalogue page (i.e clicked into the product from the Cat page)",
-            "topic": "Google Analytics (GA)"
-        },
-        {
-            "word": "Page Views/ Screen views",
-            "definition": "Total number of pages or screen viewed",
-            "topic": "Google Analytics (GA)"
-        },
-        {
-            "word": "Product Views",
-            "definition": "Number of times a product SKU was viewed (for example seeing a product on the product page).",
-            "topic": "Google Analytics (GA)"
-        },
-        {
-            "word": "YTD",
-            "definition": "Year to date",
-            "topic": "Google Analytics (GA)"
-        },
-        {
-            "word": "MTD",
-            "definition": "Month to date",
-            "topic": "Google Analytics (GA)"
-        },
-        {
-            "word": "STD",
-            "definition": "Season to date",
-            "topic": "Google Analytics (GA)"
-        },
     {
-        "word": "Core",
-        "definition": "Items that sold all year long",
-        "topic": "Marketing"
+      "word": "ISR",
+      "definition": "THE ICONIC Standard Recommendations\n\nInbound Stock Request",
+      "topic": "Tech"
     },
     {
-        "word": "Intake",
-        "definition": "Items that are going to sell next",
-        "topic": "Marketing"
+      "word": "PSA",
+      "definition": "Product Support Analyst",
+      "topic": "Tech"
     },
     {
-        "word": "Aged",
-        "definition": "Items that have been in stock for a while",
-        "topic": "Marketing"
+      "word": "OWMS",
+      "definition": "Order Warehouse Management System",
+      "topic": "Tech"
     },
     {
-        "word": "SEM",
-        "definition": "Paid Channel - Search Engineering Marketing",
-        "topic": "Marketing"
+      "word": "CDC",
+      "definition": "Complying Development Certificate",
+      "topic": "Infrastructure"
     },
     {
-        "word": "Social",
-        "definition": "Paid Channel - Facebook, Instagram channel",
-        "topic": "Marketing"
+      "word": "BCA",
+      "definition": "Building Code Australia",
+      "topic": "Infrastructure"
     },
     {
-        "word": "Display",
-        "definition": "Paid Channel - Displayed online advertisement (e.g. Google)",
-        "topic": "Marketing"
+      "word": "Impressions",
+      "definition": "The total number of times SKUs were viewed from Catalogue page or any page containing a list",
+      "topic": "Google Analytics (GA)"
     },
     {
-        "word": "AFF",
-        "definition": "Paid Channel - Affiliates",
-        "topic": "Marketing"
+      "word": "Impression Clicks",
+      "definition": "The total number of times SKUs were selected from Catalogue page (i.e clicked into the product from the Cat page)",
+      "topic": "Google Analytics (GA)"
     },
     {
-        "word": "Partnership",
-        "definition": "Paid Channel - Partnership (e.g. Qantas).",
-        "topic": "Marketing"
+      "word": "Page Views/ Screen views",
+      "definition": "Total number of pages or screen viewed",
+      "topic": "Google Analytics (GA)"
     },
     {
-        "word": "Direct",
-        "definition": "Free Channel - Visit directly to the site",
-        "topic": "Marketing"
+      "word": "Product Views",
+      "definition": "Number of times a product SKU was viewed (for example seeing a product on the product page).",
+      "topic": "Google Analytics (GA)"
     },
     {
-        "word": "SEO",
-        "definition": "Free Channel - Search Engine Optimisation (e.g. what is on Google organically)",
-        "topic": "Marketing"
+      "word": "YTD",
+      "definition": "Year to date",
+      "topic": "Google Analytics (GA)"
     },
     {
-        "word": "CRM",
-        "definition": "Customer Relationship Management, owned and free channels; email, app push notifications, web push notifications, SMS, browser and in-app messages.",
-        "topic": "Marketing"
+      "word": "MTD",
+      "definition": "Month to date",
+      "topic": "Google Analytics (GA)"
     },
     {
-        "word": "Social Org, FB pages",
-        "definition": "Free Channel - Social organisation page and Facebook pages",
-        "topic": "Marketing"
+      "word": "STD",
+      "definition": "Season to date",
+      "topic": "Google Analytics (GA)"
     },
     {
-        "word": "Others",
-        "definition": "Free Channel - Not tagged",
-        "topic": "Marketing"
+      "word": "Core",
+      "definition": "Items that sold all year long",
+      "topic": "Marketing"
     },
     {
-        "word": "CSOH",
-        "definition": "Close stock on hand",
-        "topic": "Marketing"
+      "word": "Intake",
+      "definition": "Items that are going to sell next",
+      "topic": "Marketing"
     },
     {
-        "word": "FP",
-        "definition": "Full Price",
-        "topic": "Marketing"
+      "word": "Aged",
+      "definition": "Items that have been in stock for a while",
+      "topic": "Marketing"
     },
     {
-        "word": "MD",
-        "definition": "Mark Down (i.e. discounted)",
-        "topic": "Marketing"
+      "word": "SEM",
+      "definition": "Paid Channel - Search Engineering Marketing",
+      "topic": "Marketing"
     },
     {
-        "word": "Duped",
-        "definition": "An existing customer who registered a new account",
-        "topic": "Marketing"
+      "word": "Social",
+      "definition": "Paid Channel - Facebook, Instagram channel",
+      "topic": "Marketing"
     },
     {
-        "word": "De-duped",
-        "definition": "New customers without duped",
-        "topic": "Marketing"
+      "word": "Display",
+      "definition": "Paid Channel - Displayed online advertisement (e.g. Google)",
+      "topic": "Marketing"
     },
     {
-        "word": "Re-activated",
-        "definition": "Customers who did not purchase in the past 12 months, but have just made a purchase within this reporting period (e.g. this week)",
-        "topic": "Marketing"
+      "word": "AFF",
+      "definition": "Paid Channel - Affiliates",
+      "topic": "Marketing"
     },
     {
-        "word": "Total Customer",
-        "definition": "De-duped new customer + Returning customer + Re-activated customer",
-        "topic": "Marketing"
+      "word": "Partnership",
+      "definition": "Paid Channel - Partnership (e.g. Qantas).",
+      "topic": "Marketing"
     },
     {
-        "word": "Sales Return Rate",
-        "definition": "(Sales bR - Sales aR) / Sales bR",
-        "topic": "Marketing"
+      "word": "Direct",
+      "definition": "Free Channel - Visit directly to the site",
+      "topic": "Marketing"
     },
     {
-        "word": "CPC",
-        "definition": "Cost Per Click",
-        "topic": "Marketing"
+      "word": "SEO",
+      "definition": "Free Channel - Search Engine Optimisation (e.g. what is on Google organically)",
+      "topic": "Marketing"
     },
     {
-        "word": "PPC",
-        "definition": "Pay Per Click",
-        "topic": "Marketing"
+      "word": "CRM",
+      "definition": "Customer Relationship Management, owned and free channels; email, app push notifications, web push notifications, SMS, browser and in-app messages.",
+      "topic": "Marketing"
     },
     {
-        "word": "MAU",
-        "definition": "Monthly Active Users",
-        "topic": "Marketing"
+      "word": "Social Org, FB pages",
+      "definition": "Free Channel - Social organisation page and Facebook pages",
+      "topic": "Marketing"
     },
     {
-        "word": "EM",
-        "definition": "Engagement Marketing",
-        "topic": "Marketing"
+      "word": "Others",
+      "definition": "Free Channel - Not tagged",
+      "topic": "Marketing"
     },
     {
-        "word": "OR",
-        "definition": "Open rate, refers to the open rate of an email",
-        "topic": "Marketing"
+      "word": "CSOH",
+      "definition": "Close stock on hand",
+      "topic": "Marketing"
     },
     {
-        "word": "CTR",
-        "definition": "Click Through Rate, refers to the number of clicks",
-        "topic": "Marketing"
+      "word": "FP",
+      "definition": "Full Price",
+      "topic": "Marketing"
     },
     {
-        "word": "CTOR",
-        "definition": "Click To Open Rate, number of unique clicks to unique opens",
-        "topic": "Marketing"
+      "word": "MD",
+      "definition": "Mark Down (i.e. discounted)",
+      "topic": "Marketing"
     },
     {
-        "word": "CR",
-        "definition": "Conversion Rate",
-        "topic": "Marketing"
+      "word": "Duped",
+      "definition": "An existing customer who registered a new account",
+      "topic": "Marketing"
     },
     {
-        "word": "EDM",
-        "definition": "Electronic Direct Mail, an email",
-        "topic": "Marketing"
+      "word": "De-duped",
+      "definition": "New customers without duped",
+      "topic": "Marketing"
     },
     {
-        "word": "Solus",
-        "definition": "an email that contains only one story, usually in reference to a brand or campaign, eg, a Polo Ralph Lauren solus email OR a Father's Day solus email",
-        "topic": "Marketing"
+      "word": "Re-activated",
+      "definition": "Customers who did not purchase in the past 12 months, but have just made a purchase within this reporting period (e.g. this week)",
+      "topic": "Marketing"
     },
     {
-        "word": "IAM",
-        "definition": "In-App Message, a message that pops up in THE ICONIC app",
-        "topic": "Marketing"
+      "word": "Total Customer",
+      "definition": "De-duped new customer + Returning customer + Re-activated customer",
+      "topic": "Marketing"
     },
     {
-        "word": "IBM",
-        "definition": "In-Browser Message, a message that pops up when a user is on THE ICONIC msite or desktop",
-        "topic": "Marketing"
+      "word": "Sales Return Rate",
+      "definition": "(Sales bR - Sales aR) / Sales bR",
+      "topic": "Marketing"
     },
     {
-        "word": "msite",
-        "definition": "Mobile site",
-        "topic": "Marketing"
+      "word": "CPC",
+      "definition": "Cost Per Click",
+      "topic": "Marketing"
     },
-        {
-            "word": "Wholesale",
-            "definition": "Wholesale is divided into 2 parts:\n\n-Private Label: which are the brands we manufacture ourselves (i.e Atmos&Here)\n\n-Branded: Brands that we own (ships from our warehouse, but we don’t own (i.e La Coste.. )\n\nBoth are owned by the iconic and ships from our warehouse",
-            "topic": "Company Terms"
-        },
-        {
-            "word": "Branded",
-            "definition": "Branded is further broken into 2 parts - Consignment and Wholesale - Wholesale is technically when we buy the stock completely for the cost price and own it completely, so any profit or loss we make on it is ours.  Consignment is when we get the stock with promise of paying once we sell them, so if the stock doesn't sell through, we are entitled to return it back to the supplier and so won't be making a loss on stuff not sold.",
-            "topic": "Company Terms"
-        },
-        {
-            "word": "Marketplace",
-            "definition": "Items not owned by us, and don’t ship from our warehouse, but we sell them on the website.",
-            "topic": "Company Terms"
-        },
     {
-        "word": "LAFC",
-        "definition": "Last approved forecast",
-        "topic": "Finance"
+      "word": "PPC",
+      "definition": "Pay Per Click",
+      "topic": "Marketing"
     },
     {
-        "word": "GL",
-        "definition": "General Ledger",
-        "topic": "Finance"
+      "word": "MAU",
+      "definition": "Monthly Active Users",
+      "topic": "Marketing"
     },
     {
-        "word": "GSR",
-        "definition": "Goods Sold Report",
-        "topic": "Finance"
+      "word": "EM",
+      "definition": "Engagement Marketing",
+      "topic": "Marketing"
     },
     {
-        "word": "AWB",
-        "definition": "Air Waybill (Return Label/Label From Auspost)",
-        "topic": "Fulfilment Centre"
+      "word": "OR",
+      "definition": "Open rate, refers to the open rate of an email",
+      "topic": "Marketing"
     },
     {
-        "word": "CSA",
-        "definition": "Customer Service Approved - Return item approved prior to arrival at the warehouse",
-        "topic": "Fulfilment Centre"
+      "word": "CTR",
+      "definition": "Click Through Rate, refers to the number of clicks",
+      "topic": "Marketing"
     },
     {
-        "word": "Cycle count",
-        "definition": "Like stocktake",
-        "topic": "Fulfilment Centre"
+      "word": "CTOR",
+      "definition": "Click To Open Rate, number of unique clicks to unique opens",
+      "topic": "Marketing"
     },
     {
-        "word": "Deputy",
-        "definition": "Time management/attendance application",
-        "topic": "Fulfilment Centre"
+      "word": "CR",
+      "definition": "Conversion Rate",
+      "topic": "Marketing"
     },
     {
-        "word": "DG",
-        "definition": "Dangerous Goods",
-        "topic": "Fulfilment Centre"
+      "word": "EDM",
+      "definition": "Electronic Direct Mail, an email",
+      "topic": "Marketing"
     },
     {
-        "word": "IA",
-        "definition": "Inbound Administrator",
-        "topic": "Fulfilment Centre"
+      "word": "Solus",
+      "definition": "an email that contains only one story, usually in reference to a brand or campaign, eg, a Polo Ralph Lauren solus email OR a Father's Day solus email",
+      "topic": "Marketing"
     },
     {
-        "word": "IRS",
-        "definition": "Inbound Record Sheet",
-        "topic": "Fulfilment Centre"
+      "word": "IAM",
+      "definition": "In-App Message, a message that pops up in THE ICONIC app",
+      "topic": "Marketing"
     },
     {
-        "word": "Mail Call",
-        "definition": "Means 3hr delivery for Sydney metro (12 mins to fulfil an",
-        "topic": "Fulfilment Centre"
+      "word": "IBM",
+      "definition": "In-Browser Message, a message that pops up when a user is on THE ICONIC msite or desktop",
+      "topic": "Marketing"
     },
     {
-        "word": "MIO",
-        "definition": "Multi-Item Order",
-        "topic": "Fulfilment Centre"
+      "word": "msite",
+      "definition": "Mobile site",
+      "topic": "Marketing"
     },
     {
-        "word": "NCI",
-        "definition": "Non-Conveyable Items",
-        "topic": "Fulfilment Centre"
+      "word": "Wholesale",
+      "definition": "Wholesale is divided into 2 parts:\n\n-Private Label: which are the brands we manufacture ourselves (i.e Atmos&Here)\n\n-Branded: Brands that we own (ships from our warehouse, but we don’t own (i.e La Coste.. )\n\nBoth are owned by the iconic and ships from our warehouse",
+      "topic": "Company Terms"
     },
     {
-        "word": "QC",
-        "definition": "Quality Check",
-        "topic": "Fulfilment Centre"
+      "word": "Branded",
+      "definition": "Branded is further broken into 2 parts - Consignment and Wholesale - Wholesale is technically when we buy the stock completely for the cost price and own it completely, so any profit or loss we make on it is ours.  Consignment is when we get the stock with promise of paying once we sell them, so if the stock doesn't sell through, we are entitled to return it back to the supplier and so won't be making a loss on stuff not sold.",
+      "topic": "Company Terms"
     },
     {
-        "word": "PPT",
-        "definition": "Pre Picked Tote",
-        "topic": "Fulfilment Centre"
+      "word": "Marketplace",
+      "definition": "Items not owned by us, and don’t ship from our warehouse, but we sell them on the website.",
+      "topic": "Company Terms"
     },
     {
-        "word": "RCB",
-        "definition": "Receiving Compartment Bins",
-        "topic": "Fulfilment Centre"
+      "word": "LAFC",
+      "definition": "Last approved forecast",
+      "topic": "Finance"
     },
     {
-        "word": "RCT",
-        "definition": "Receiving Compartment Trolley",
-        "topic": "Fulfilment Centre"
+      "word": "GL",
+      "definition": "General Ledger",
+      "topic": "Finance"
     },
     {
-        "word": "RF Gun",
-        "definition": "Radio Frequency Gun",
-        "topic": "Fulfilment Centre"
+      "word": "GSR",
+      "definition": "Goods Sold Report",
+      "topic": "Finance"
     },
     {
-        "word": "RTS",
-        "definition": "Return to Supplier",
-        "topic": "Fulfilment Centre"
+      "word": "AWB",
+      "definition": "Air Waybill (Return Label/Label From Auspost)",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "SIO",
-        "definition": "Single Item Order",
-        "topic": "Fulfilment Centre"
+      "word": "CSA",
+      "definition": "Customer Service Approved - Return item approved prior to arrival at the warehouse",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "SKU",
-        "definition": "Stock Keeping Unit",
-        "topic": "Fulfilment Centre"
+      "word": "Cycle count",
+      "definition": "Like stocktake",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "SR",
-        "definition": "Security Room",
-        "topic": "Fulfilment Centre"
+      "word": "Deputy",
+      "definition": "Time management/attendance application",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "SSCC",
-        "definition": "Serial Shipping Container Code",
-        "topic": "Fulfilment Centre"
+      "word": "DG",
+      "definition": "Dangerous Goods",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "Tote",
-        "definition": "Box",
-        "topic": "Fulfilment Centre"
+      "word": "IA",
+      "definition": "Inbound Administrator",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "ULD",
-        "definition": "Universal Loading Device (Caged pallets owned by Aus Post)",
-        "topic": "Fulfilment Centre"
+      "word": "IRS",
+      "definition": "Inbound Record Sheet",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "UTF",
-        "definition": "Unable to Fulfill",
-        "topic": "Fulfilment Centre"
+      "word": "Mail Call",
+      "definition": "Means 3hr delivery for Sydney metro (12 mins to fulfil an",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "VL / VLD",
-        "definition": "Vander Lander",
-        "topic": "Fulfilment Centre"
+      "word": "MIO",
+      "definition": "Multi-Item Order",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "WR",
-        "definition": "Warehouse Receipt",
-        "topic": "Fulfilment Centre"
+      "word": "NCI",
+      "definition": "Non-Conveyable Items",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "WPA",
-        "definition": "Warehouse Put Away Sheets",
-        "topic": "Fulfilment Centre"
+      "word": "QC",
+      "definition": "Quality Check",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "WHS",
-        "definition": "Warehouse Shipment",
-        "topic": "Fulfilment Centre"
+      "word": "PPT",
+      "definition": "Pre Picked Tote",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "LBC",
-        "definition": "Lean business case",
-        "topic": "Agile"
+      "word": "RCB",
+      "definition": "Receiving Compartment Bins",
+      "topic": "Fulfilment Centre"
     },
-        {
-            "word": "Total NMV",
-            "definition": "Total Net Merchandise Value (Total NMV) is defined as the value of goods (within both retail and marketplace segment) sold after actual and provisioned returns and rejections. Net of VAT.",
-            "topic": "GFG Metrics"
-        },
-        {
-            "word": "Retail NMV",
-            "definition": "Retail Net Merchandise Value (Retail NMV) is defined as the value of goods sold after actual and provisioned returns and rejections. Net of VAT.",
-            "topic": "GFG Metrics"
-        },
-        {
-            "word": "Marketplace NMV",
-            "definition": "Marketplace Net Merchandise Value (Marketplace NMV) is defined as the value of goods sold after actual and provisioned returns and rejections. Net of VAT.",
-            "topic": "GFG Metrics"
-        },
-        {
-            "word": "GMV",
-            "definition": "Total original price value of retail goods sold after actual and provisioned cancellations relating to the period and before adjustments for discounts/coupons/markdowns and actual and provisioned rejections/returns. Net of VAT. (Total, retail, marketplace)",
-            "topic": "GFG Metrics"
-        },
-        {
-            "word": "Market Share",
-            "definition": "Market Size Definition:\nAll data to be net of tax and based on price paid, i.e. post discounts/ coupons. Offline + online retail market of apparel, footwear, beauty & personal care as well as beauty accessories Excluding black-market sales (i.e. untaxed, generated within informal retailing) and duty free sales (travel retail) Antique and/ or vintage clothing and footwear is also excluded Beauty & Personal care is the aggregation of baby and child-specific products, bath & shower, deodorants, hair care, colour cosmetics, men's grooming, oral hygiene, fragrances, skin care, depilatories, sun care and sets/kits. This is the aggregation of premium colour cosmetics, fragrances, deodorants, skin care, sun care, baby and child-specific products, bath and shower and hair care If you are using a different definition compared to the above, please do reach out pro-actively to discuss and make it transparent. Market Size to be shown in EUR'm.\n\nMarket Share (%) Definition:\n\nMarket share (%) = Total NMV (G1) / Market Size\nImportant to ensure that same underlying exchange rates are used for Total NMV (G1) and Market Size",
-            "topic": "GFG Metrics"
-        },
-        {
-            "word": "New Customers",
-            "definition": "Number of new customers who have purchased at least one item after cancellations, returns and rejections (“net purchase”) in the period.",
-            "topic": "GFG Metrics"
-        },
-        {
-            "word": "Existing Customers",
-            "definition": "Number of customers who made at least one net purchase in the period and who also made a net purchase within the last 12 months prior to the month of the first net purchase in the current period.",
-            "topic": "GFG Metrics"
-        },
-        {
-            "word": "Reactivated Customers",
-            "definition": "Number of customers who made at least one net purchase in the period and whose last net purchase was recorded more than 12 months ago prior to the month of the first net purchase in the current period.",
-            "topic": "GFG Metrics"
-        },
-        {
-            "word": "Churned Customers",
-            "definition": "Number of customers who have not made a net purchase in the period and whose last net purchase was recorded more than 12 months ago at the end of the period.",
-            "topic": "GFG Metrics"
-        },
-        {
-    "word": "Active Customers",
-    "definition": "Total number of customers who made at least one net purchase in the last twelve months at the end of the period.",
-    "topic": "GFG Metrics"
-},
-{
-    "word": "Reject / Return Rate % - Total Customers",
-    "definition": "Rejected & Returned Orders / Orders before rejections and returns",
-    "topic": "GFG Metrics"
-},
-{
-    "word": "NMV / New Customer Cohort",
-    "definition": "Total NMV generated in the specified period by New Customer Cohort of the specified period",
-    "topic": "GFG Metrics"
-},
-{
-    "word": "NMV / Existing & Reactivated Customer Cohorts",
-    "definition": "Total NMV generated in the specified period by Existing & Reactivated Customer Cohorts",
-    "topic": "GFG Metrics"
-},
-{
-    "word": "Net Orders / New Customer Cohort",
-    "definition": "Total Net Orders generated in the specified Period by New Customer Cohort of the specified Period",
-    "topic": "GFG Metrics"
-},
-{
-    "word": "Net Orders / Existing & Reactivated Customer Cohorts",
-    "definition": "Total Net Orders generated in the specified Period by Existing Customer Cohorts",
-    "topic": "GFG Metrics"
-},
-{
-    "word": "Net Items / New Customer Cohort",
-    "definition": "Total Net Items generated in the specified Period by New Customer Cohort of the specified Period",
-    "topic": "GFG Metrics"
-},
     {
-        "word": "Net Items / Existing & Reactivated Customer Cohorts",
-        "definition": "Total Net Items generated in the specified Period by Existing Customer Cohorts",
-        "topic": "GFG Metrics"
+      "word": "RCT",
+      "definition": "Receiving Compartment Trolley",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "Traffic (site visits)",
-        "definition": "Number of series of page views from the same device and and the same source (via websites, m.sites, t.sites, or apps) during the relevant period. The series is considered ended when a page view is not recorded for more than 30 minutes.",
-        "topic": "GFG Metrics"
+      "word": "RF Gun",
+      "definition": "Radio Frequency Gun",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "Traffic (site visits) - Mobile Site",
-        "definition": "Traffic (site visits) via mobile",
-        "topic": "GFG Metrics"
+      "word": "RTS",
+      "definition": "Return to Supplier",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "Traffic (site visits) - Desktop",
-        "definition": "Traffic (site visits) via Desktop",
-        "topic": "GFG Metrics"
+      "word": "SIO",
+      "definition": "Single Item Order",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "Traffic (site visits) - App",
-        "definition": "Traffic (site visits) via App",
-        "topic": "GFG Metrics"
+      "word": "SKU",
+      "definition": "Stock Keeping Unit",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "Conversion Rate",
-        "definition": "Net orders / Traffic (site visits) - Total",
-        "topic": "GFG Metrics"
+      "word": "SR",
+      "definition": "Security Room",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "Net Orders",
-        "definition": "Total number of valid (i.e. not failed or declined) orders starting the Fulfilment process less cancelled orders less rejected and returned orders, i.e. total number of orders delivered to customer in the period (retail and marketplace).",
-        "topic": "GFG Metrics"
+      "word": "SSCC",
+      "definition": "Serial Shipping Container Code",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "Marketing expenses",
-        "definition": "Expenses associated with promoting sales and brand awareness. Include paid performance marketing, non-performance / brans awareness marketing, etc.",
-        "topic": "GFG Metrics"
+      "word": "Tote",
+      "definition": "Box",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "CAC",
-        "definition": "Total Marketing Expenses / New Customers",
-        "topic": "GFG Metrics"
+      "word": "ULD",
+      "definition": "Universal Loading Device (Caged pallets owned by Aus Post)",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "NMV bRR",
-        "definition": "Net Merchandise Value before Rejects/ Returns (NMV bRR) is defined as the value of goods sold before actual and provisioned returns and rejections. Net of VAT (total, retail or marketplace)",
-        "topic": "GFG Metrics"
+      "word": "UTF",
+      "definition": "Unable to Fulfill",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "Retail NMV bRR",
-        "definition": "Retail Net Merchandise Value before Rejects/ Returns (Retail NMV bRR) is defined as the value of goods sold before actual and provisioned returns and rejections. Net of VAT.",
-        "topic": "GFG Metrics"
+      "word": "VL / VLD",
+      "definition": "Vander Lander",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "Branded",
-        "definition": "Products that are identifiable as being the product of a particular manufacturer or company",
-        "topic": "GFG Metrics"
+      "word": "WR",
+      "definition": "Warehouse Receipt",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "Private / White Label",
-        "definition": "In house product, designed, sourced and produced internally",
-        "topic": "GFG Metrics"
+      "word": "WPA",
+      "definition": "Warehouse Put Away Sheets",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "ASP",
-        "definition": "Average Selling Price = Total NMV / Total Net Items",
-        "topic": "GFG Metrics"
+      "word": "WHS",
+      "definition": "Warehouse Shipment",
+      "topic": "Fulfilment Centre"
     },
     {
-        "word": "Collection (only applicable to Dafiti)",
-        "definition": "Stock acquired prior to the start of the season",
-        "topic": "GFG Metrics"
+      "word": "LBC",
+      "definition": "Lean business case",
+      "topic": "Agile"
     },
     {
-        "word": "Opportunities (only applicable to Dafiti)",
-        "definition": "Stock acquired during the season at discounted price",
-        "topic": "GFG Metrics"
+      "word": "Total NMV",
+      "definition": "Total Net Merchandise Value (Total NMV) is defined as the value of goods (within both retail and marketplace segment) sold after actual and provisioned returns and rejections. Net of VAT.",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Opening Inventory",
-        "definition": "Inventory Opening Balance of the specified Period on the Balance Sheet",
-        "topic": "GFG Metrics"
+      "word": "Retail NMV",
+      "definition": "Retail Net Merchandise Value (Retail NMV) is defined as the value of goods sold after actual and provisioned returns and rejections. Net of VAT.",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Intake",
-        "definition": "Inventory Purchases in the specified Period at Cost. Timing of recognition to be arrival at warehouse.",
-        "topic": "GFG Metrics"
+      "word": "Marketplace NMV",
+      "definition": "Marketplace Net Merchandise Value (Marketplace NMV) is defined as the value of goods sold after actual and provisioned returns and rejections. Net of VAT.",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "COGS",
-        "definition": "Cost of Goods Sold in the specified Period",
-        "topic": "GFG Metrics"
+      "word": "GMV",
+      "definition": "Total original price value of retail goods sold after actual and provisioned cancellations relating to the period and before adjustments for discounts/coupons/markdowns and actual and provisioned rejections/returns. Net of VAT. (Total, retail, marketplace)",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "COGS bRR",
-        "definition": "Cost of Goods Sold in the specified Period on a shipped to customer basis, i.e. before taking into account rejects/ returns",
-        "topic": "GFG Metrics"
+      "word": "Market Share",
+      "definition": "Market Size Definition:\nAll data to be net of tax and based on price paid, i.e. post discounts/ coupons. Offline + online retail market of apparel, footwear, beauty & personal care as well as beauty accessories Excluding black-market sales (i.e. untaxed, generated within informal retailing) and duty free sales (travel retail) Antique and/ or vintage clothing and footwear is also excluded Beauty & Personal care is the aggregation of baby and child-specific products, bath & shower, deodorants, hair care, colour cosmetics, men's grooming, oral hygiene, fragrances, skin care, depilatories, sun care and sets/kits. This is the aggregation of premium colour cosmetics, fragrances, deodorants, skin care, sun care, baby and child-specific products, bath and shower and hair care If you are using a different definition compared to the above, please do reach out pro-actively to discuss and make it transparent. Market Size to be shown in EUR'm.\n\nMarket Share (%) Definition:\n\nMarket share (%) = Total NMV (G1) / Market Size\nImportant to ensure that same underlying exchange rates are used for Total NMV (G1) and Market Size",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Returns to Suppliers",
-        "definition": "Goods Returned to Suppliers at Cost",
-        "topic": "GFG Metrics"
+      "word": "New Customers",
+      "definition": "Number of new customers who have purchased at least one item after cancellations, returns and rejections (“net purchase”) in the period.",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Gains / (Losses)",
-        "definition": "Inventory Stock Take Gains / (Losses)",
-        "topic": "GFG Metrics"
+      "word": "Existing Customers",
+      "definition": "Number of customers who made at least one net purchase in the period and who also made a net purchase within the last 12 months prior to the month of the first net purchase in the current period.",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Provisions",
-        "definition": "Inventory Impairment Provision",
-        "topic": "GFG Metrics"
+      "word": "Reactivated Customers",
+      "definition": "Number of customers who made at least one net purchase in the period and whose last net purchase was recorded more than 12 months ago prior to the month of the first net purchase in the current period.",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Closing Inventory",
-        "definition": "Inventory Closing Balance of the specified Period on the Balance Sheet. Cross-check if you can solve for this by adding: Opening Inventory, Intake, COGS, Returns to suppliers, Sales to Wholesale/ Jobbers, Gains/ (Losses), Provisions.",
-        "topic": "GFG Metrics"
+      "word": "Churned Customers",
+      "definition": "Number of customers who have not made a net purchase in the period and whose last net purchase was recorded more than 12 months ago at the end of the period.",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Net Items",
-        "definition": "Total Items sold after actual and provisioned returns and rejections (total items sold = Total net items, retail items sold - Net items - Retail, marketplace items sold - Net items - Marketplace)",
-        "topic": "GFG Metrics"
+      "word": "Active Customers",
+      "definition": "Total number of customers who made at least one net purchase in the last twelve months at the end of the period.",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Discounts & Coupons & Markdowns",
-        "definition": "Discounts - Temporary value off of current permanent price\nMarkdowns - Reduction of the original price to a new lower permanent price\nCoupons - Value off at checkout not related to specific product",
-        "topic": "GFG Metrics"
+      "word": "Reject / Return Rate % - Total Customers",
+      "definition": "Rejected & Returned Orders / Orders before rejections and returns",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Discounts & Coupons & Markdowns, %",
-        "definition": "Discounts & Coupons & Markdowns / NMV bRR",
-        "topic": "GFG Metrics"
+      "word": "NMV / New Customer Cohort",
+      "definition": "Total NMV generated in the specified period by New Customer Cohort of the specified period",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Core",
-        "definition": "Amount with no defined season OR continuity inventory",
-        "topic": "GFG Metrics"
+      "word": "NMV / Existing & Reactivated Customer Cohorts",
+      "definition": "Total NMV generated in the specified period by Existing & Reactivated Customer Cohorts",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Old Season",
-        "definition": "Amount attributable to all prior seasons",
-        "topic": "GFG Metrics"
+      "word": "Net Orders / New Customer Cohort",
+      "definition": "Total Net Orders generated in the specified Period by New Customer Cohort of the specified Period",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Landed Margin, %",
-        "definition": "(Retail price (Initial Price of goods sold) - Cost price of goods sold - Inbound expenses (duties, transport etc) of goods sold) / Retail price( Initial Price of goods sold).\nRetail Price ( Initial Price) = first black price with which the SKU is listed on the website before any discounts, markdowns, coupons are applied.",
-        "topic": "GFG Metrics"
+      "word": "Net Orders / Existing & Reactivated Customer Cohorts",
+      "definition": "Total Net Orders generated in the specified Period by Existing Customer Cohorts",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Co-marketing Income",
-        "definition": "Agreed co-investment in marketing between two parties (brand and the platform), related to stock suppliers. Measured as % of NMV.",
-        "topic": "GFG Metrics"
+      "word": "Net Items / New Customer Cohort",
+      "definition": "Total Net Items generated in the specified Period by New Customer Cohort of the specified Period",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Gross Commission %",
-        "definition": "Total commission and fees made from goods sold after actual cancellations in marketplace, after rejections and returns but before discounts and markdowns",
-        "topic": "GFG Metrics"
+      "word": "Net Items / Existing & Reactivated Customer Cohorts",
+      "definition": "Total Net Items generated in the specified Period by Existing Customer Cohorts",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Funded Discounts %",
-        "definition": "Funded Discounts (EUR) = Discounts (EUR) paid for by GFG (or regional business) to the marketplace seller.\nFunded Discounts % = Funded Discounts (EUR) / (NMV bRR and before Funded Discounts (EUR)) * Gross Commission %",
-        "topic": "GFG Metrics"
+      "word": "Traffic (site visits)",
+      "definition": "Number of series of page views from the same device and and the same source (via websites, m.sites, t.sites, or apps) during the relevant period. The series is considered ended when a page view is not recorded for more than 30 minutes.",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Net Commission %",
-        "definition": "Net Commission % = Gross Commission % - Funded Discounts %",
-        "topic": "GFG Metrics"
+      "word": "Traffic (site visits) - Mobile Site",
+      "definition": "Traffic (site visits) via mobile",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Own Fulfilled %",
-        "definition": "(Marketplace deliveries/parcels fulfilled by GFG) / (total marketplace deliveries/parcels)",
-        "topic": "GFG Metrics"
+      "word": "Traffic (site visits) - Desktop",
+      "definition": "Traffic (site visits) via Desktop",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Fulfilment Expenses %",
-        "definition": "Marketplace Fulfilment expenses / marketplace NMV",
-        "topic": "GFG Metrics"
+      "word": "Traffic (site visits) - App",
+      "definition": "Traffic (site visits) via App",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Net Commission after Fulfilment expenses %",
-        "definition": "Net Commission % - Fulfilment expenses %",
-        "topic": "GFG Metrics"
+      "word": "Conversion Rate",
+      "definition": "Net orders / Traffic (site visits) - Total",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Sell Through %",
-        "definition": "Describes % of total purchasing budget sold to customers at a specific point in time.\nSell Through % = COGS (up to the period end)/ COGS Buy In.\nCOGS Buy In = Wholesale cost of inventory received plus inventory committed, including inbound expenses (duties, transport etc.)",
-        "topic": "GFG Metrics"
+      "word": "Net Orders",
+      "definition": "Total number of valid (i.e. not failed or declined) orders starting the Fulfilment process less cancelled orders less rejected and returned orders, i.e. total number of orders delivered to customer in the period (retail and marketplace).",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Product Margin, %",
-        "definition": "Product Margin % = (Landed Margin less Discounts & Coupons & Markdowns plus Co-marketing Income) / Retail Price/ Initial Price. Based on actual and provisioned rejects & returns.",
-        "topic": "GFG Metrics"
+      "word": "Marketing expenses",
+      "definition": "Expenses associated with promoting sales and brand awareness. Include paid performance marketing, non-performance / brans awareness marketing, etc.",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Inventory turnover - Gross, bRR",
-        "definition": "Ratio showing how many times a company has sold and replaced inventory during a period, before rejections and returns.",
-        "topic": "GFG Metrics"
+      "word": "CAC",
+      "definition": "Total Marketing Expenses / New Customers",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Inventory turnover - Net, aRR",
-        "definition": "Ratio showing how many times a company has sold and replaced inventory during a period, after rejections and returns.",
-        "topic": "GFG Metrics"
+      "word": "NMV bRR",
+      "definition": "Net Merchandise Value before Rejects/ Returns (NMV bRR) is defined as the value of goods sold before actual and provisioned returns and rejections. Net of VAT (total, retail or marketplace)",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Wholesale to jobbers",
-        "definition": "Slow moving / residual stock sold to wholesalers",
-        "topic": "GFG Metrics"
+      "word": "Retail NMV bRR",
+      "definition": "Retail Net Merchandise Value before Rejects/ Returns (Retail NMV bRR) is defined as the value of goods sold before actual and provisioned returns and rejections. Net of VAT.",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Inventory Days",
-        "definition": "Average Inventory of the period / Cost of sales of the period * days in the period",
-        "topic": "GFG Metrics"
+      "word": "Branded",
+      "definition": "Products that are identifiable as being the product of a particular manufacturer or company",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Active Sellers",
-        "definition": "Number of sellers who listed at least one item online in the last twelve months.",
-        "topic": "GFG Metrics"
+      "word": "Private / White Label",
+      "definition": "In house product, designed, sourced and produced internally",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "New Sellers",
-        "definition": "Number of new sellers who have listed at least one item online in the period",
-        "topic": "GFG Metrics"
+      "word": "ASP",
+      "definition": "Average Selling Price = Total NMV / Total Net Items",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Existing Sellers",
-        "definition": "Number of sellers who have listed at least one item online and who also listed at least one item online within the last 12 months prior to the month of the first net purchase in the current period.",
-        "topic": "GFG Metrics"
+      "word": "Collection (only applicable to Dafiti)",
+      "definition": "Stock acquired prior to the start of the season",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Churned Sellers",
-        "definition": "Number of Sellers who have not listed an item online in the period and whose last listing was recorded more than 12 months ago at the end of the period..",
-        "topic": "GFG Metrics"
+      "word": "Opportunities (only applicable to Dafiti)",
+      "definition": "Stock acquired during the season at discounted price",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Reactivated Sellers",
-        "definition": "Number of sellers who listed at least one item online, who previously listed at least one item online prior to the last 12 months.",
-        "topic": "GFG Metrics"
+      "word": "Opening Inventory",
+      "definition": "Inventory Opening Balance of the specified Period on the Balance Sheet",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Reactivated Customers",
-        "definition": "Number of customers who made at least one net purchase in the period and whose last net purchase was recorded more than 12 months ago prior to the month of the first net purchase in the current period.",
-        "topic": "GFG Metrics"
+      "word": "Intake",
+      "definition": "Inventory Purchases in the specified Period at Cost. Timing of recognition to be arrival at warehouse.",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "New Sellers, %",
-        "definition": "New Sellers % = (New Sellers) / (Total Sellers). Total sellers = (New Sellers + Existing Sellers + Reactivated Sellers).",
-        "topic": "GFG Metrics"
+      "word": "COGS",
+      "definition": "Cost of Goods Sold in the specified Period",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Churned Sellers %",
-        "definition": "Churned Sellers % = Churned Sellers in the period / Active Sellers at the beginning of the period.",
-        "topic": "GFG Metrics"
+      "word": "COGS bRR",
+      "definition": "Cost of Goods Sold in the specified Period on a shipped to customer basis, i.e. before taking into account rejects/ returns",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Reactivated Sellers %",
-        "definition": "Reactivated Sellers % = (Reactivated Sellers) / (Total Sellers). Total Sellers = (New Sellers + Existing Sellers + Reactivated Sellers).",
-        "topic": "GFG Metrics"
+      "word": "Returns to Suppliers",
+      "definition": "Goods Returned to Suppliers at Cost",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Listed Items online",
-        "definition": "Average number of items available for sale in the specified period (retail, marketplace, total)",
-        "topic": "GFG Metrics"
+      "word": "Gains / (Losses)",
+      "definition": "Inventory Stock Take Gains / (Losses)",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Rejection/Return Rate, %",
-        "definition": "Actual and provisioned rejections and returns / NMV bRR. NMV bRR is defined in G.30",
-        "topic": "GFG Metrics"
+      "word": "Provisions",
+      "definition": "Inventory Impairment Provision",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "RR vs Retail, pp",
-        "definition": "Rejection/Return Rate, % - Marketplace minus Rejection/Return Rate, % - Retail",
-        "topic": "GFG Metrics"
+      "word": "Closing Inventory",
+      "definition": "Inventory Closing Balance of the specified Period on the Balance Sheet. Cross-check if you can solve for this by adding: Opening Inventory, Intake, COGS, Returns to suppliers, Sales to Wholesale/ Jobbers, Gains/ (Losses), Provisions.",
+      "topic": "GFG Metrics"
     },
     {
-        "word": "Partner fulfilled %",
-        "definition": "(Marketplace deliveries/parcels fulfilled by partner) / (total marketplace deliveries/parcels)",
-        "topic": "GFG Metrics"
+      "word": "Net Items",
+      "definition": "Total Items sold after actual and provisioned returns and rejections (total items sold = Total net items, retail items sold - Net items - Retail, marketplace items sold - Net items - Marketplace)",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Discounts & Coupons & Markdowns",
+      "definition": "Discounts - Temporary value off of current permanent price\nMarkdowns - Reduction of the original price to a new lower permanent price\nCoupons - Value off at checkout not related to specific product",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Discounts & Coupons & Markdowns, %",
+      "definition": "Discounts & Coupons & Markdowns / NMV bRR",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Core",
+      "definition": "Amount with no defined season OR continuity inventory",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Old Season",
+      "definition": "Amount attributable to all prior seasons",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Landed Margin, %",
+      "definition": "(Retail price (Initial Price of goods sold) - Cost price of goods sold - Inbound expenses (duties, transport etc) of goods sold) / Retail price( Initial Price of goods sold).\nRetail Price ( Initial Price) = first black price with which the SKU is listed on the website before any discounts, markdowns, coupons are applied.",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Co-marketing Income",
+      "definition": "Agreed co-investment in marketing between two parties (brand and the platform), related to stock suppliers. Measured as % of NMV.",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Gross Commission %",
+      "definition": "Total commission and fees made from goods sold after actual cancellations in marketplace, after rejections and returns but before discounts and markdowns",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Funded Discounts %",
+      "definition": "Funded Discounts (EUR) = Discounts (EUR) paid for by GFG (or regional business) to the marketplace seller.\nFunded Discounts % = Funded Discounts (EUR) / (NMV bRR and before Funded Discounts (EUR)) * Gross Commission %",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Net Commission %",
+      "definition": "Net Commission % = Gross Commission % - Funded Discounts %",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Own Fulfilled %",
+      "definition": "(Marketplace deliveries/parcels fulfilled by GFG) / (total marketplace deliveries/parcels)",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Fulfilment Expenses %",
+      "definition": "Marketplace Fulfilment expenses / marketplace NMV",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Net Commission after Fulfilment expenses %",
+      "definition": "Net Commission % - Fulfilment expenses %",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Sell Through %",
+      "definition": "Describes % of total purchasing budget sold to customers at a specific point in time.\nSell Through % = COGS (up to the period end)/ COGS Buy In.\nCOGS Buy In = Wholesale cost of inventory received plus inventory committed, including inbound expenses (duties, transport etc.)",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Product Margin, %",
+      "definition": "Product Margin % = (Landed Margin less Discounts & Coupons & Markdowns plus Co-marketing Income) / Retail Price/ Initial Price. Based on actual and provisioned rejects & returns.",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Inventory turnover - Gross, bRR",
+      "definition": "Ratio showing how many times a company has sold and replaced inventory during a period, before rejections and returns.",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Inventory turnover - Net, aRR",
+      "definition": "Ratio showing how many times a company has sold and replaced inventory during a period, after rejections and returns.",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Wholesale to jobbers",
+      "definition": "Slow moving / residual stock sold to wholesalers",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Inventory Days",
+      "definition": "Average Inventory of the period / Cost of sales of the period * days in the period",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Active Sellers",
+      "definition": "Number of sellers who listed at least one item online in the last twelve months.",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "New Sellers",
+      "definition": "Number of new sellers who have listed at least one item online in the period",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Existing Sellers",
+      "definition": "Number of sellers who have listed at least one item online and who also listed at least one item online within the last 12 months prior to the month of the first net purchase in the current period.",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Churned Sellers",
+      "definition": "Number of Sellers who have not listed an item online in the period and whose last listing was recorded more than 12 months ago at the end of the period..",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Reactivated Sellers",
+      "definition": "Number of sellers who listed at least one item online, who previously listed at least one item online prior to the last 12 months.",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Reactivated Customers",
+      "definition": "Number of customers who made at least one net purchase in the period and whose last net purchase was recorded more than 12 months ago prior to the month of the first net purchase in the current period.",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "New Sellers, %",
+      "definition": "New Sellers % = (New Sellers) / (Total Sellers). Total sellers = (New Sellers + Existing Sellers + Reactivated Sellers).",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Churned Sellers %",
+      "definition": "Churned Sellers % = Churned Sellers in the period / Active Sellers at the beginning of the period.",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Reactivated Sellers %",
+      "definition": "Reactivated Sellers % = (Reactivated Sellers) / (Total Sellers). Total Sellers = (New Sellers + Existing Sellers + Reactivated Sellers).",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Listed Items online",
+      "definition": "Average number of items available for sale in the specified period (retail, marketplace, total)",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Rejection/Return Rate, %",
+      "definition": "Actual and provisioned rejections and returns / NMV bRR. NMV bRR is defined in G.30",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "RR vs Retail, pp",
+      "definition": "Rejection/Return Rate, % - Marketplace minus Rejection/Return Rate, % - Retail",
+      "topic": "GFG Metrics"
+    },
+    {
+      "word": "Partner fulfilled %",
+      "definition": "(Marketplace deliveries/parcels fulfilled by partner) / (total marketplace deliveries/parcels)",
+      "topic": "GFG Metrics"
     }
-]
+  ]
