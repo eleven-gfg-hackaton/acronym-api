@@ -109,8 +109,13 @@ async function getAcronymsFromCache(inputText) {
 functions.http('helloGET', async (req, res) => {
     try {
         const inputText = req.body.text;
-        const acronyms = await getAcronymsFromCache(inputText);
-        res.status(200).send(acronyms);        
+        let acronyms = await getAcronymsFromCache(inputText);
+        if (acronyms.length !== 0) {
+            res.status(200).send(acronyms);
+        } else {
+            acronyms = await getAcronymsFromAI(inputText);
+            res.status(200).send(acronyms);
+        }      
     } catch (error) {
         console.log(error);
         res.status(200).send([]);        
